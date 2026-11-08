@@ -1,5 +1,4 @@
 # Retinal-Vessel-Segmentation
-# Retinal Vessel Segmentation
 
 End-to-end pipeline for automated retinal vessel segmentation from fundus images,
 developed as a group project for the Medical Image Processing course (MSc Biomedical
